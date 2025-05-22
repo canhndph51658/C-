@@ -1,0 +1,15 @@
+E:\laragon\www\C#\LibraryManager\bin\Debug\net6.0\LibraryManager.exe
+E:\laragon\www\C#\LibraryManager\bin\Debug\net6.0\LibraryManager.deps.json
+E:\laragon\www\C#\LibraryManager\bin\Debug\net6.0\LibraryManager.runtimeconfig.json
+E:\laragon\www\C#\LibraryManager\bin\Debug\net6.0\LibraryManager.dll
+E:\laragon\www\C#\LibraryManager\bin\Debug\net6.0\LibraryManager.pdb
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\LibraryManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\LibraryManager.AssemblyInfoInputs.cache
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\LibraryManager.AssemblyInfo.cs
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\LibraryManager.csproj.CoreCompileInputs.cache
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\LibraryManager.sourcelink.json
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\LibraryManager.dll
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\refint\LibraryManager.dll
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\LibraryManager.pdb
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\LibraryManager.genruntimeconfig.cache
+E:\laragon\www\C#\LibraryManager\obj\Debug\net6.0\ref\LibraryManager.dll
