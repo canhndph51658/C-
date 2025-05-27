@@ -1,0 +1,1 @@
+namespace CourseManagementSystem { public interface ICanLearn { void RegisterCourse(Course course); void TakeExam(string courseId, double score); } }

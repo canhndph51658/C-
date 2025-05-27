@@ -1,0 +1,5 @@
+E:\laragon\www\C\OrderTrackingSystemFixed\obj\Debug\net6.0\OrderTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\laragon\www\C\OrderTrackingSystemFixed\obj\Debug\net6.0\OrderTrackingSystem.AssemblyInfoInputs.cache
+E:\laragon\www\C\OrderTrackingSystemFixed\obj\Debug\net6.0\OrderTrackingSystem.AssemblyInfo.cs
+E:\laragon\www\C\OrderTrackingSystemFixed\obj\Debug\net6.0\OrderTrackingSystem.csproj.CoreCompileInputs.cache
+E:\laragon\www\C\OrderTrackingSystemFixed\obj\Debug\net6.0\OrderTrackingSystem.sourcelink.json
