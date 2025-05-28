@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\laragon\\www\\C\\Day-6f\\TrainingCenterManagement.csproj": {}
+    "E:\\laragon\\www\\C\\Day-6\\TrainingCenterManagement.csproj": {}
   },
   "projects": {
-    "E:\\laragon\\www\\C\\Day-6f\\TrainingCenterManagement.csproj": {
+    "E:\\laragon\\www\\C\\Day-6\\TrainingCenterManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\laragon\\www\\C\\Day-6f\\TrainingCenterManagement.csproj",
+        "projectUniqueName": "E:\\laragon\\www\\C\\Day-6\\TrainingCenterManagement.csproj",
         "projectName": "TrainingCenterManagement",
-        "projectPath": "E:\\laragon\\www\\C\\Day-6f\\TrainingCenterManagement.csproj",
+        "projectPath": "E:\\laragon\\www\\C\\Day-6\\TrainingCenterManagement.csproj",
         "packagesPath": "C:\\Users\\canh2\\.nuget\\packages\\",
-        "outputPath": "E:\\laragon\\www\\C\\Day-6f\\obj\\",
+        "outputPath": "E:\\laragon\\www\\C\\Day-6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\canh2\\AppData\\Roaming\\NuGet\\NuGet.Config"
